@@ -250,10 +250,8 @@ PR.com is a hybrid directory and distribution platform that combines a business 
 
 ---
 
-### 10. 
-**PRFREE:** https://prfree.org/
-**NewswireBiz:** https://newswirebiz.com/
-**PressReleaseWire:** https://press-release-wire.com/
+### 10. PRFREE
+**Website:** https://prfree.org/
 **Starting Price:** Free
 
 **Overview:**
@@ -284,7 +282,7 @@ The following platforms are paid sponsors. They offer legitimate services worth 
 
 ### 11. NewswireBiz
 **Website:** https://newswirebiz.com/
-**Starting Price:** Custom pricing (contact for quote)
+**Starting Price:** Free
 
 **Overview:**
 NewswireBiz positions itself as an affordable yet comprehensive press release distribution service, targeting small to medium-sized businesses that need both wire distribution and SEO benefits. The platform emphasizes quick turnaround and broad online syndication.
@@ -310,7 +308,7 @@ NewswireBiz positions itself as an affordable yet comprehensive press release di
 
 ### 12. PressReleaseWire
 **Website:** https://press-release-wire.com/
-**Starting Price:** $49–$99 per release (varies by package)
+**Starting Price:** Free
 
 **Overview:**
 PressReleaseWire is a budget-friendly distribution platform focused on getting releases onto major news sites and search engines quickly. It combines wire-style distribution with social amplification, making it suitable for lean PR teams.
